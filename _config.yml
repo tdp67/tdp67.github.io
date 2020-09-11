@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tiffany Pellathy"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Nurse, Scientist, AND Nurse-Scientist"
   location         : "Pittsburgh, PA"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Pellathy+T&cauthor_id=30077422"
   googlescholar    : "https://scholar.google.com/citations?user=RfPrAUMAAAAJ&hl=en&oi=ao"
-  email            : "tp67@georgetown.edu"
+  email            : "tdp20@pitt.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
